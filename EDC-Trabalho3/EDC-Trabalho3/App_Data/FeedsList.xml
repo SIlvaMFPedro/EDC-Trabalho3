@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feeds>
+  <feed name="O Jogo - FCPorto" url="http://feeds.ojogo.pt/OJ-Porto" />
+  <feed name="Visao" url="http://rss.impresa.pt/feed/latest/visao.rss" />
+  <feed name="SIC" url="http://rss.impresa.pt/feed/latest/sic.rss" />
+  <feed name="Expresso" url="http://feeds.feedburner.com/expresso-geral" />
+  <feed name="JN" url="http://feeds.jn.pt/JN-ULTIMAS" />
+  <feed name="Record" url="http://feeds.record.xl.pt" />
+  <feed name="A Bola" url="http://a-bola.webnode.pt/rss/all.xml" />
+  <feed name="NYT" url="http://rss.nytimes.com/services/xml/rss/nyt/InternationalHome.xml" />
+  <feed name="CNN" url="" />
+  <feed name="CNN" url="http://edition.cnn.com/world" />
+  <feed name="" url="" />
+</feeds>
